@@ -1,0 +1,19 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+@import url(//fonts.googleapis.com/css?family=Roboto);
+@import url(//fonts.googleapis.com/css?family=Noto+Serif);
+
+.main{
+            background-color: darkred;
+            color:white;
+            border-style: dotted;
+            font-family: 'Roboto' , sans-serif;
+}
+
+h1 { 
+    font-family: 'Open Sans' , sans-serif;
+    color: forestgreen;
+}
+
+.bodymain{
+    font-family:  'Noto Serif', serif;
+}
